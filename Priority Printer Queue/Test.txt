@@ -1,0 +1,35 @@
+Script started on Thu 26 Mar 2020 07:26:34 PM PDT
+]0;cowie001@empress:~/cs311/cs311RY/CS311Progs/HWPrograms/forHW5[?1034h[cowie001@empress forHW5]$ g++ pqueue.cpp pqclient.cpp
+]0;cowie001@empress:~/cs311/cs311RY/CS311Progs/HWPrograms/forHW5[cowie001@empress forHW5]$ ./a.out
+Adding: 20
+Adding: 12
+Jobs: 12 20 
+Adding: 30
+Adding: 1
+Jobs: 1 12 30 20 
+Adding: 5
+Adding: 6
+Adding: 7
+Adding: 8
+Adding: 9
+Adding: 10
+Adding: 11
+Jobs: 1 5 6 8 10 30 7 20 9 12 11 
+Adding: 50
+**ERROR** Number of elements exceeds MAX
+Printing: 1
+Jobs: 5 8 6 9 10 30 7 20 11 12 
+Printing: 5
+Jobs: 6 8 7 9 10 30 12 20 11 
+Printing: 6
+Jobs: 7 8 11 9 10 30 12 20 
+Printing: 7
+Jobs: 8 9 11 20 10 30 12 
+Adding: 2
+Jobs: 2 8 11 9 10 30 12 20 
+Adding: 3
+Jobs: 2 3 11 8 10 30 12 20 9 
+]0;cowie001@empress:~/cs311/cs311RY/CS311Progs/HWPrograms/forHW5[cowie001@empress forHW5]$ exit
+exit
+
+Script done on Thu 26 Mar 2020 07:26:56 PM PDT
