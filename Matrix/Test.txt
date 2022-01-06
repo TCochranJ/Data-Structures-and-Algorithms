@@ -1,0 +1,10 @@
+Script started on Sat 08 Feb 2020 12:34:53 PM PST
+]0;cowie001@empress:~/cs311/cs311RY/CS311Progs/HWPrograms/forHW2/HW2EC_matrix[?1034h[cowie001@empress HW2EC_matrix]$ g++ mat.cpp
+]0;cowie001@empress:~/cs311/cs311RY/CS311Progs/HWPrograms/forHW2/HW2EC_matrix[cowie001@empress HW2EC_matrix]$ ./a.out
+0| a b c | d e f | - - - | - - - 
+1| - - - | - - - | g h i | j k l 
+2| - - - | - - - | - - - | - - - 
+]0;cowie001@empress:~/cs311/cs311RY/CS311Progs/HWPrograms/forHW2/HW2EC_matrix[cowie001@empress HW2EC_matrix]$ exit
+exit
+
+Script done on Sat 08 Feb 2020 12:35:10 PM PST
